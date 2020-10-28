@@ -1,0 +1,18 @@
+hari : rabu-7-oktober-2020
+author : M FAEZOL PADLI
+*********************************
+
+field / atribute 
+
+behaviour / prilaku => method
+
+			CLASS
+------------------------------------
+
+	fungsi -> menegembalikan nilai
+
+	prosedur -> tidak mengembalikan nilai
+
+jika membuat objek tidak ada parameternya yang construktor ada parameternya maka buat constructor yang baru tapi jangan kasih parameter.
+
+------------------------------------

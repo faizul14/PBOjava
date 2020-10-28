@@ -1,0 +1,27 @@
+**************************************************
+M. Faezol padli 
+PBO : RABU 14-OKTOBER-2000 KELOMPOK C2
+**************************************************
+
+		public static void main(String[] args) {
+			//penjelasan :ini wajib ada objeknya karna ada static 
+		}
+
+		public void berburu(){
+			//penjelasan :ini tidak wajib punya objeck karna tidak ada static nya
+		}
+
+***************************************************
+PBO pertemuan ke 3
+***************************************************
+pembahasan dengan final yang nilainya konstant atau tidak bisa di ubah
+
+
+  MODIFIER
+   hak akses yang di berikan kepada variabel/method/
+***************************************************
+PBO pertemuan ke 4
+***************************************************
+ ArrayList
+
+ 
