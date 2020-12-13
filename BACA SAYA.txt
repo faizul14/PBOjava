@@ -4,11 +4,11 @@ PBO : RABU 14-OKTOBER-2000 KELOMPOK C2
 **************************************************
 
 		public static void main(String[] args) {
-			//penjelasan :ini wajib ada objeknya karna ada static 
+			//penjelasan :ini tidak wajib ada objeknya karna ada static 
 		}
 
 		public void berburu(){
-			//penjelasan :ini tidak wajib punya objeck karna tidak ada static nya
+			//penjelasan :ini wajib punya objeck karna tidak ada static nya
 		}
 
 ***************************************************
